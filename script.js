@@ -13,4 +13,5 @@ function theRedirect(element) {
 let name = window.prompt("Hello, what is your name?");
 let task = window.prompt(`Hello,${name} what services do you seek`);
 let number = window.prompt(`Hello ${name}, please input your contact and I will reach you shortly`);
+alert(`Hey ${name},I will get in touch with you shortly!`);
 
