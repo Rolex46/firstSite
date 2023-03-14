@@ -1,14 +1,16 @@
 body {
     background-color: white;
     background-size: auto;
-}
-h1,h2{
+    margin-left: 0%;
+    }
+
+h1,h2 {
     text-align: center;
     text-decoration: wavy;
     color: grey;
     margin:0 auto;
     width: 60%
-    padding-bottom: 40 px;
+    padding-bottom 40 px;
 }
 img {
     border: 1px solid #ddd;
@@ -25,7 +27,7 @@ img {
 h3 {
     text-align: center;
 }
-p {
+p #introduction{
     text-align: center;
     justify-content: center;
     
